@@ -3,3 +3,4 @@
 .terraform/
 .env
 .terraform.lock.hcl
+terraform.tfstate.backup
